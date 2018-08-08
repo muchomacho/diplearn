@@ -1,5 +1,5 @@
 # Description
-Read breast X-ray picture data and predict whether a malignant tumor exists in the picture
+Read breast X-ray picture data and predict whether a malignant tumor exists in the picture by using multi-layer perceptron
 
 # Language
 - Rust 1.27.1
