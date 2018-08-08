@@ -1,0 +1,7 @@
+[package]
+name = "diplearn"
+version = "1.27.1"
+authors = ["muchomacho <tosh.un316@gmail.com>"]
+
+[dependencies]
+rand = "*"
